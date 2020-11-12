@@ -8,8 +8,8 @@ sort: 2
 
 My name is **Adya Danaditya**. The first child of the two delivered by my parents; happily married to a wonderful wife; a Capricorn born in the Year of the Dog.   
 
-![image-title-here](/path/to/image.jpg){:class="img-responsive"}
-![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+![headshot](/assets/page/profile.png)
+![in-action](/assets/page/profile-action.png)
 
 I worked in the technology industry my whole career (5 years) with roles varying **from marketing to software engineering**. My last employment have me work in **product management** and I lead a team in charge of two end-to-end digital products. My previous employers include ***KompasGramedia*** (one of Indonesia's largest media conglomerates), ***Airy*** (once the leading startup on budget travel) and the technology consulting firm ***Accenture***. I started several businesses and non-profits in parallel. The most notable one being ***BagiKata*** - it's better if you go [there](https://bagikata.com) if you want to know what that is.
 

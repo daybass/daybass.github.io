@@ -25,7 +25,8 @@ layout: home-structure
         <a class="post-link" href="{{ post.url | relative_url }}">
           <h5 class = "post-link-title">{{ post.title | escape }}</h5>
         </a>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta">{{ post.date | date: date_format }}</span> - 
+        <span class="post-meta">{{ post.categories }}</span>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

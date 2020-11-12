@@ -1,4 +1,4 @@
-/* fonts */
+/* font and links */
 
 body, p{
   font-family: 'Domine', serif;
@@ -14,6 +14,16 @@ h1,h2,h3{
 
 h4,h5{
   font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  color: #888;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #aaa;
+  text-decoration: none;
 }
 
 /* header related */
@@ -71,4 +81,14 @@ h4,h5{
 
 .post-link{
   font-size: 1rem;
+}
+
+/* footer */
+.site-footer{
+  border: 0;
+  background-color: #eee;
+}
+
+.svg-icon{
+  padding:0;
 }
