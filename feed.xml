@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Revue de Appasaka</title>
-    <link href="https://daybass.github.io/feed.xml" rel="self" />
-    <link href="https://daybass.github.io" />
+    <link href="https://baday.bagikata.com/feed.xml" rel="self" />
+    <link href="https://baday.bagikata.com" />
     <updated>2022-10-23T23:24:22+07:00</updated>
     <author>
         <name>Adya Danaditya</name>
     </author>
-    <id>https://daybass.github.io</id>
+    <id>https://baday.bagikata.com</id>
 
     <entry>
         <title>Reflections from Fatherhood</title>
         <author>
             <name>Adya Danaditya</name>
         </author>
-        <link href="https://daybass.github.io/write-again.html"/>
-        <id>https://daybass.github.io/write-again.html</id>
+        <link href="https://baday.bagikata.com/write-again.html"/>
+        <id>https://baday.bagikata.com/write-again.html</id>
 
         <updated>2022-10-23T23:24:22+07:00</updated>
             <summary>
