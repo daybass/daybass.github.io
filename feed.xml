@@ -3,7 +3,7 @@
     <title>Revue de Appasaka</title>
     <link href="https://daybass.github.io/daybass.github.io/feed.xml" rel="self" />
     <link href="https://daybass.github.io/daybass.github.io" />
-    <updated>2022-10-23T21:59:08+07:00</updated>
+    <updated>2022-10-23T22:03:07+07:00</updated>
     <author>
         <name>Adya Danaditya</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://daybass.github.io/daybass.github.io/write-again.html"/>
         <id>https://daybass.github.io/daybass.github.io/write-again.html</id>
 
-        <updated>2022-10-23T21:59:08+07:00</updated>
+        <updated>2022-10-23T22:03:07+07:00</updated>
             <summary>
                 <![CDATA[
-                    Test, Appasaka
+                    Test, Appasaka test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Test, Appasaka</p>
+                <p>Test, Appasaka test</p>
+<p> </p>
             ]]>
         </content>
     </entry>
