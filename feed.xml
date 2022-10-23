@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Revue de Appasaka</title>
+    <link href="https://daybass.github.io/daybass.github.io/feed.xml" rel="self" />
+    <link href="https://daybass.github.io/daybass.github.io" />
+    <updated>2022-10-23T21:59:08+07:00</updated>
+    <author>
+        <name>Adya Danaditya</name>
+    </author>
+    <id>https://daybass.github.io/daybass.github.io</id>
+
+    <entry>
+        <title>Write again</title>
+        <author>
+            <name>Adya Danaditya</name>
+        </author>
+        <link href="https://daybass.github.io/daybass.github.io/write-again.html"/>
+        <id>https://daybass.github.io/daybass.github.io/write-again.html</id>
+
+        <updated>2022-10-23T21:59:08+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Test, Appasaka
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test, Appasaka</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
