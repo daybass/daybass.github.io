@@ -3,12 +3,32 @@
     <title>Revue de Appasaka</title>
     <link href="https://baday.bagikata.com/feed.xml" rel="self" />
     <link href="https://baday.bagikata.com" />
-    <updated>2022-10-23T23:24:22+07:00</updated>
+    <updated>2022-10-23T23:39:47+07:00</updated>
     <author>
         <name>Adya Danaditya</name>
     </author>
     <id>https://baday.bagikata.com</id>
 
+    <entry>
+        <title>Welcome to Adya Danaditya&#x27;s Personal Page</title>
+        <author>
+            <name>Adya Danaditya</name>
+        </author>
+        <link href="https://baday.bagikata.com/welcome-to-adya-danadityas-personal-page.html"/>
+        <id>https://baday.bagikata.com/welcome-to-adya-danadityas-personal-page.html</id>
+
+        <updated>2022-10-23T23:39:47+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to my personal page. In this site I will document
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to my personal page. In this site I will document</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Reflections from Fatherhood</title>
         <author>

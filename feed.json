@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://baday.bagikata.com/welcome-to-adya-danadityas-personal-page.html",
+            "url": "https://baday.bagikata.com/welcome-to-adya-danadityas-personal-page.html",
+            "title": "Welcome to Adya Danaditya&#x27;s Personal Page",
+            "summary": "Welcome to my personal page. In this site I will document",
+            "content_html": "<p>Welcome to my personal page. In this site I will document</p>",
+            "author": {
+                "name": "Adya Danaditya"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-23T23:37:03+07:00",
+            "date_modified": "2022-10-23T23:39:47+07:00"
+        },
+        {
             "id": "https://baday.bagikata.com/write-again.html",
             "url": "https://baday.bagikata.com/write-again.html",
             "title": "Reflections from Fatherhood",
