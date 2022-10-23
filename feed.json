@@ -2,26 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Revue de Appasaka",
     "description": "",
-    "home_page_url": "https://daybass.github.io/daybass.github.io",
-    "feed_url": "https://daybass.github.io/daybass.github.io/feed.json",
+    "home_page_url": "https://daybass.github.io",
+    "feed_url": "https://daybass.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Adya Danaditya"
     },
     "items": [
         {
-            "id": "https://daybass.github.io/daybass.github.io/write-again.html",
-            "url": "https://daybass.github.io/daybass.github.io/write-again.html",
+            "id": "https://daybass.github.io/write-again.html",
+            "url": "https://daybass.github.io/write-again.html",
             "title": "Write again",
-            "summary": "Test, Appasaka test",
-            "content_html": "<p>Test, Appasaka test</p>\n<p> </p>",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed justo volutpat, dapibus diam semper, semper nisl. Proin rhoncus risus leo, vel finibus magna bibendum vitae. Curabitur non imperdiet massa. In pretium sodales tellus, quis tempus sapien varius vitae. Phasellus ultrices ante vel arcu scelerisque&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed justo volutpat, dapibus diam semper, semper nisl. Proin rhoncus risus leo, vel finibus magna bibendum vitae. Curabitur non imperdiet massa. In pretium sodales tellus, quis tempus sapien varius vitae. Phasellus ultrices ante vel arcu scelerisque tempus eget non neque. Curabitur justo tortor, pellentesque sed ullamcorper ut, ornare at purus. Suspendisse tempor rutrum nisl at tempus.</p>\n<p> </p>",
             "author": {
                 "name": "Adya Danaditya"
             },
             "tags": [
             ],
             "date_published": "2022-10-23T21:59:08+07:00",
-            "date_modified": "2022-10-23T22:03:07+07:00"
+            "date_modified": "2022-10-23T22:25:01+07:00"
         }
     ]
 }

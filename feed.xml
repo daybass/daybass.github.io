@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Revue de Appasaka</title>
-    <link href="https://daybass.github.io/daybass.github.io/feed.xml" rel="self" />
-    <link href="https://daybass.github.io/daybass.github.io" />
-    <updated>2022-10-23T22:03:07+07:00</updated>
+    <link href="https://daybass.github.io/feed.xml" rel="self" />
+    <link href="https://daybass.github.io" />
+    <updated>2022-10-23T22:25:01+07:00</updated>
     <author>
         <name>Adya Danaditya</name>
     </author>
-    <id>https://daybass.github.io/daybass.github.io</id>
+    <id>https://daybass.github.io</id>
 
     <entry>
         <title>Write again</title>
         <author>
             <name>Adya Danaditya</name>
         </author>
-        <link href="https://daybass.github.io/daybass.github.io/write-again.html"/>
-        <id>https://daybass.github.io/daybass.github.io/write-again.html</id>
+        <link href="https://daybass.github.io/write-again.html"/>
+        <id>https://daybass.github.io/write-again.html</id>
 
-        <updated>2022-10-23T22:03:07+07:00</updated>
+        <updated>2022-10-23T22:25:01+07:00</updated>
             <summary>
                 <![CDATA[
-                    Test, Appasaka test
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed justo volutpat, dapibus diam semper, semper nisl. Proin rhoncus risus leo, vel finibus magna bibendum vitae. Curabitur non imperdiet massa. In pretium sodales tellus, quis tempus sapien varius vitae. Phasellus ultrices ante vel arcu scelerisque&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Test, Appasaka test</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed justo volutpat, dapibus diam semper, semper nisl. Proin rhoncus risus leo, vel finibus magna bibendum vitae. Curabitur non imperdiet massa. In pretium sodales tellus, quis tempus sapien varius vitae. Phasellus ultrices ante vel arcu scelerisque tempus eget non neque. Curabitur justo tortor, pellentesque sed ullamcorper ut, ornare at purus. Suspendisse tempor rutrum nisl at tempus.</p>
 <p> </p>
             ]]>
         </content>
