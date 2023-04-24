@@ -3,50 +3,143 @@
     <title>Revue de Appasaka</title>
     <link href="https://baday.bagikata.com/feed.xml" rel="self" />
     <link href="https://baday.bagikata.com" />
-    <updated>2022-10-23T23:39:47+07:00</updated>
+    <updated>2023-04-24T21:43:06+07:00</updated>
     <author>
         <name>Adya Danaditya</name>
     </author>
     <id>https://baday.bagikata.com</id>
 
     <entry>
-        <title>Welcome to Adya Danaditya&#x27;s Personal Page</title>
+        <title>Product management is a mental health challenge</title>
+        <author>
+            <name>Adya Danaditya</name>
+        </author>
+        <link href="https://baday.bagikata.com/product-management-is-a-mental-health-challenge.html"/>
+        <id>https://baday.bagikata.com/product-management-is-a-mental-health-challenge.html</id>
+
+        <updated>2023-04-24T21:43:06+07:00</updated>
+            <summary>
+                <![CDATA[
+                    There. I've said it. And I posted it, to the full view of recruiters and colleagues that might think "...this freak is another spoiled brat trying to put mental health as a cover for cracking under pressure and doing a crap job at work" and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>There. I've said it. And I posted it, to the full view of recruiters and colleagues that might think "...<em>this freak is another spoiled brat trying to put mental health as a cover for cracking under pressure and doing a crap job at work</em>" and put me out of the running on future PM jobs. I wrote the bulk of the piece around two year ago, has circulated it to limited friends and colleagues for it to 'mature', but only now have I mustered the courage to 'go public' with it.</p>
+<p>Don't get me wrong, product management is a really fulfilling job if done right, it seems to be a good fit for my skill set, and it <span style="text-decoration: underline;"><strong>pays well</strong></span>. But ask any PMs you know - I guarantee nobody would say that it's an easy job. PM-ing is an arduous undertaking - and as I want to argue further, is a mental health challenge.</p>
+<p class="p1">And anyone trying to enter the field have to prepare for that. Somebody has to say it out loud in the midst of all the romanticization - <em>and bootcamps selling the notion that is a possible jumping point to tech without learning to code</em>. I recently had an long talk with a freshly minted product manager and I heard that after taking on a product management job, that particular person, whom I know very well as a very resilient person, suddenly became riddled with anxiety and panic attacks especially after waking up in the morning.<span class="Apple-converted-space"> </span></p>
+<p class="p1">That fact didn’t surprise me one bit because truthfully, it’s an experience that has haunted me since the start of my career in the startup world / tech industry. This happened all the time with my friends and fellow colleagues. I saw the best of us crumble and fall, appearing and disappearing every once in a while due to burnout and mental health issues.<span class="Apple-converted-space"> </span></p>
+<p class="p3">I reflected a lot this last year and after 6-7 years in the industry, I tried to summarize basically why product management, in particular, is a tough proposition mentally:</p>
+<ul class="ul1">
+<li class="li1"><strong>Your job is basically to coax out certainty out of uncertain expectations</strong> (by your bosses, your stakeholders, you customers, and your team), and at some unfortunate times, you have to do it amidst political infighting</li>
+<li class="li1"><strong>Things get personal: </strong>It’s hard to separate in your mind the product you manage and your own pride and dignity - if something goes wrong it’s very easy to take it personally</li>
+<li class="li1">You’re <strong>accountable for things you are not in control of</strong>, like technical issues even your engineers don’t anticipate nor even imagine (most PMs I knew would say that it happened almost on a day to day basis) or a promo campaign gone bust, or a change in regulation that will bust your product if enacted</li>
+<li>A certain percent of the human population are assholes, and as you meet more people in comparison to say, engineers, designer or analysts - <strong>it is statistically inevitable that you frequent assholes from time to time</strong>.</li>
+<li class="li1"><strong>Your process can look like a fail:</strong> You would definitely need failure and experiments to be certain of something but at any time someone could point that process as a sign of incompetence<span class="Apple-converted-space"> </span></li>
+<li class="li3">In a toxic culture, <strong>as you are everywhere, it is very easy to throw you under the bus</strong>. You get wary all the time and sometimes paranoid about things</li>
+</ul>
+<p class="p1">A discussion of whether the job merits these points and whether a structural change is needed is another lengthy discussion, but for now, identifying what to do and how to cope is a good baby step to begin with. Here’s how I manage.<span class="Apple-converted-space"> </span></p>
+<p class="p3">Through my grad school readings in politics and the military, I learned 3 major strategies in dealing with a bad situation, and there’s a strategy that we can use here in this situation. It is aptly titled ‘embrace the suck’ - meaning to accept that a situation is bad, there’s nothing feasible we can do to change it, and what’s left is dealing with it. Dealing with it entails:</p>
+<p><strong>Internalizing the ‘serenity prayer’</strong></p>
+<p class="p4">There’s a prayer created by Alcoholics Anonymous, a support group for people that have alcohol problems to help them get through it. I find it a really good solace and very much applies to my daily life in Product Management: “God, grant me the serenity to accept the things I cannot change, The courage to change the things I can, And the wisdom to know the difference.” Mic drop.</p>
+<p><strong>Savor the highs</strong></p>
+<p class="p4">It’s okay to bask in the glory sometimes when you did something right or in the rare event where everything just went right. It keeps you going. Just make sure you put credits where credit is due and celebrate together. Get your engineers, designers, analysts and stakeholders in the party as well.</p>
+<p><strong>It’s okay to be vulnerable</strong></p>
+<p class="p4">One of the things that makes it worse is to constantly dwell in denial - throw that away and don’t even try to pretend. Be honest if you’re struggling. The way ‘help’ worked is to let people know you need it. It doesn’t wander around looking and it will throw itself randomly at your door.</p>
+<p><strong>Find a support system</strong></p>
+<p class="p4">This is harder than it sounds - and it’s very easy to feel like no one cares about you. But give them a chance and forgive them if they don’t rise up to the occasion. Let them know again. Value the ones that stayed.</p>
+<p><strong>Do something outside of work</strong></p>
+<p class="p5">I’m not saying you should look for side gigs - you just need something to prove that your life is not equal to your current work. This can be gaming, social work, organizing, anything that gives life meaning and purpose without necessarily incurring you any burden. This will help you thread the fine line between your product and your personal agency. There’s another fine line to thread here, and you really have to own up your mistake, but if your feature, product, or initiative goes awry - it’s not ‘you’ that is bad. It’s usually just what you did at the moment given the circumstances that are bad and that doesn’t define you.</p>
+<p class="p1">I hope you well with your sprint plannings, roadmaps, and retro sessions.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What is worth building nowadays?</title>
+        <author>
+            <name>Adya Danaditya</name>
+        </author>
+        <link href="https://baday.bagikata.com/what-is-worth-building-nowadays.html"/>
+        <id>https://baday.bagikata.com/what-is-worth-building-nowadays.html</id>
+
+        <updated>2022-11-05T20:21:22+07:00</updated>
+            <summary>
+                <![CDATA[
+                    BagiKata Startup-ification of everything Product Market Fit Hidden Default
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>BagiKata</p>
+<p>Startup-ification of everything</p>
+<p>Product Market Fit</p>
+<p>Hidden Default</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Give room for life to happen</title>
         <author>
             <name>Adya Danaditya</name>
         </author>
         <link href="https://baday.bagikata.com/welcome-to-adya-danadityas-personal-page.html"/>
         <id>https://baday.bagikata.com/welcome-to-adya-danadityas-personal-page.html</id>
 
-        <updated>2022-10-23T23:39:47+07:00</updated>
+        <updated>2022-11-05T20:20:06+07:00</updated>
             <summary>
                 <![CDATA[
-                    Welcome to my personal page. In this site I will document
+                    When I was younger and brash, I would
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Welcome to my personal page. In this site I will document</p>
+                <p>When I was younger and brash, I would        </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Reflections from Fatherhood</title>
+        <title>Reflections from fatherhood</title>
         <author>
             <name>Adya Danaditya</name>
         </author>
         <link href="https://baday.bagikata.com/write-again.html"/>
         <id>https://baday.bagikata.com/write-again.html</id>
 
-        <updated>2022-10-23T23:24:22+07:00</updated>
+        <updated>2022-11-06T16:24:05+07:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed justo volutpat, dapibus diam semper, semper nisl. Proin rhoncus risus leo, vel finibus magna bibendum vitae. Curabitur non imperdiet massa. In pretium sodales tellus, quis tempus sapien varius vitae. Phasellus ultrices ante vel arcu scelerisque&hellip;
+                    The news. When I learned that my wife and I was expecting, back in Pittsburgh, I was in a state of shock. I've been so used to the idea that it's going to be only the two of us onward since the moment we got&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed justo volutpat, dapibus diam semper, semper nisl. Proin rhoncus risus leo, vel finibus magna bibendum vitae. Curabitur non imperdiet massa. In pretium sodales tellus, quis tempus sapien varius vitae. Phasellus ultrices ante vel arcu scelerisque tempus eget non neque. Curabitur justo tortor, pellentesque sed ullamcorper ut, ornare at purus. Suspendisse tempor rutrum nisl at tempus.</p>
-<p>When I learned that my wife and I was expecting, I was in a state of shock. </p>
+                <h3><strong>The news.</strong></h3>
+<p>When I learned that my wife and I was expecting, back in Pittsburgh, I was in a state of shock. I've been so used to the idea that it's going to be only the two of us onward since the moment we got married, that the revelation sucker-punched me.</p>
+<p>Apart from that, the timing was uncanny. First, my wife's flying back in three days as her visitor visa will lapse real soon. Second, the news came just days after I got (and about to accept) two offers, sent out on around the same time: <strong>i)</strong> an offer from a reputable think tank to intern for them the coming Spring; <strong>ii)</strong> a fully funded PhD position in digital mental health in Dublin. The end of my Masters' is coming in two months, and those two offers reflected a solid consequent plan our life could follow after this exciting experience in America - another epic journey. The baby news, at least for me at that point in time, was a brick in the beautiful window that was <span style="text-decoration: line-through;">our</span> my preferred plan. </p>
+<p>In truth, this 'thing' happening was kind of natural: me and my wife never actively planned against it, we never actively planned for it either: we would just let it be. And in the States, for the first time in years, we felt freer and happier with each other. We would travel, have lots of fun on the weekends (life savings be damned), and all the Jakarta stress - while it's still there (my wife's still working full-time remotely in a crazy timezone) - seems worlds away. <span style="text-decoration: underline;">Exactly the condition to induce baby-making activities.</span></p>
+<p>It just didn't occur to me that it would actually happen. But it did, and we have to act on it, quickly, as my wife's heading back soon and we only have three days of face-to-face discussion. After a lot of tears and fights and long talks, we adjusted the life plan. I would stay in the US to do the internship, plus a second job teaching at the University (I have to recoup our savings we blow on our travels for the kid) while my wife would go back home as planned, continue work, and have her pregnancy around our family and support system back in Jakarta. I'll fly back after the internship is done, which is around two months before the expected delivery date.</p>
+<p>Fast forward six months, I'm back in Jakarta, and after the longest 18-hour of my life, Zeda Ajisaka was born. He changed my life completely.</p>
+<h3>The learning.</h3>
+<p>Fatherhood was <span style="text-decoration: underline;">one of the most challenging experience that ever presents itself to me</span>. Going through a school with an almost unhealthy obsession of military-styled training is draining physically, but you generally don't face real stakes, so mentally, you should be fine. University was a tough one on the brains, but I learned quickly enough that if something drains you, you could just miss tomorrow's class with no real repercussion, so you'll be fine the following day 😉. With work, it might drain you mentally and physically, but you relish in the delight of the paycheck that comes every now and again.</p>
+<p>With babies, it's complicated. You generally can't predict what will happen. No amount of classes I took and books I read prepared me for the reality that is raising kids. And unlike things I've done before: it's tough in all the aspects! You're drained mentally (<em>as you tire your brains out trying to figure out how this black box works and operates</em>), you're drained physically (<em>bye bye sleep - and watch your back - in a literal sense</em>), and you're paying (<strong>a sweet amount</strong>) for this. What you got in return is you got screamed at, (<em>literally</em>) pissed at, (<em>literally</em>) pooped at, and spat at. Umm, for a bit of an upside, maybe in a few occasions they will laugh and they will will look so cute, you'll unsolicited pictures of them to unexpecting (and sometimes unwelcome) audience. <em><strong>And yet you'd die for them.</strong></em> </p>
+<p>Why? I honestly don't know - maybe that's why they say blood is thicker than water. The myth of <strong><span style="text-decoration: underline;">the familial bond</span></strong>. However, I'm not so sure that's all to it.</p>
+<p>I'm still struggling in finding the other parts of the answer, but, one of my favorite things about having a child is you get to learn things about life in a wholly different perspective. I'm writing some of those learnings here so I get to remember (and get to structure it well) and here's hoping maybe you, <em>kind reader</em>, could benefit from the things I think about when I look longingly into my son's eyes.</p>
+<blockquote>
+<p>For all those born beneath an angry star<br>Lest we forget how fragile we are</p>
+<p>- Fragile, Sting (1988)</p>
+</blockquote>
+<p><em><strong>Humans</strong> <strong>are fragile, our bonds makes us strong. </strong></em>The first lesson that my son 'taught' me is that human is inherently fragile. You can't leave babies alone - it can hurt itself just by incorrectly positioning themselves. You have to feed them in a regular rate as they can't feed themselves and if you miss feeding them for some time, they could be fatally sick real quick. They can't clean themselves from the filth they got into, and they can't communicate effectively what they need.</p>
+<p>This turns out to be a uniquely human condition. Douglas Rushkoff</p>
+<blockquote>
+<div class="ujudUb">We've not listened to<br aria-hidden="true">Or spoken about it at all<br aria-hidden="true">The fact that time was running out for us all</div>
+<div class="ujudUb">Time waits for nobody<br aria-hidden="true">Time waits for no one</div>
+<p>- Time, Freddie Mercury (1986)</p>
+</blockquote>
+<p><em><strong>Time is cruel and unforgiving. </strong></em>Every time I saw my son's eyes</p>
+<p> </p>
+<p><em><strong>People will be people</strong></em></p>
+<p>When my kid is in his best behavior - </p>
             ]]>
         </content>
     </entry>
